@@ -39,6 +39,7 @@
 					<div class="gallery bookcase">
 						<div style="height:80%;">
 <%-- 		<img src="../images/bookcase/${bo.cover }" alt="${bo.title }"> --%>
+
 						<img src="/upload/${bo.cover }" alt="${bo.title }">
 							<!-- todo : 사용자가 파일 (이미지,텍스트 등)을 업로드 했을 때
 								        서버 컴퓨터 특정 폴더에 저장되도록 하며
